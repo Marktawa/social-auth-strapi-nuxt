@@ -1,5 +1,3 @@
-# Social Authentication with Strapi & Nuxt.js: Getting Started 1/3
-
 ## Introduction
 
 Social Authentication is becoming popular in the software industry because of the convenience it provides to users.
@@ -42,18 +40,19 @@ Make sure that you have the MongoDB server running before you start the process 
 
 > For latest updates on Strapi and MongoDB, please reference this [blog post](https://strapi.io/blog/mongo-db-support-in-strapi-past-present-and-future).
 
-```
-yarn create strapi-app my-project //using yarn
-npx create-strapi-app my-project //using npx
+```bash
+yarn create strapi-app my-project # using yarn
+npx create-strapi-app my-project  # using npx
 ```
 
 Replace `my-project` with the name you wish to call your application directory. Your package manager will create a directory with the name and will install Strapi.
 
 If you have followed the instructions correctly, you should have Strapi installed on your machine.
 
-```
-yarn develop //using yarn
-npm run develop //using npm
+```bash
+cd my-project
+yarn develop # using yarn
+npm run develop # using npm
 ```
 
 To start our development server, Strapi starts our app on `http://localhost:1337/admin`

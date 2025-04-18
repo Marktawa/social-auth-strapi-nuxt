@@ -1,5 +1,3 @@
-# Social Authentication with Strapi & Nuxt.js: Getting Started 3/3
-
 ## Introduction
 
 In this tutorial, we’ll be learning how to integrate social authentication into our [Strapi](https://strapi.io/) application. In order to do this, we’ll be building simple notes sharing application with Strapi backend and [Nuxt.js](https://strapi.io/integrations/nextjs-cms) frontend, we’ll also use [Quill.js](https://quilljs.com/) as our text editor, [Nodemailer](https://nodemailer.com/) for emails, we’ll integrate infinite scrolling and many more features.
