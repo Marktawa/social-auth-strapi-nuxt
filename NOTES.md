@@ -1,0 +1,4 @@
+- Just use JS instead of TS
+- Use npm instead of yarn
+- Use the create admin script instead of the UI
+- Vite setup use the following link: https://forum.strapi.io/t/server-allowedhosts-in-vite-config-js/52759/5#p-83256-how-i-fixed-the-serverallowedhosts-in-viteconfigjs-error-message-in-my-strapi-project-1
